@@ -1,11 +1,10 @@
-### Hi there , I'm niaodtiantang 👋
+### Hi there , I'm Half Of Five 👋
 
 - 🔭 I’m currently working on my blog.
 - 🌱 I’m currently learning HTML5 and JavaScript.
-- 📫 How to reach me: [niaodtiantang@gmail.com](mailto:niaodtiantang@gmail.com)
 - 😄 Pronouns: He/His/Him
 <!--
-**niaodtiantang/niaodtiantang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**halfoffive/halfoffive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### My Gitgub Stats
-![Niaodtiantang's GitHub stats](https://github-readme-stats.vercel.app/api?username=niaodtiantang&show_icons=true&theme=dark)
+![Niaodtiantang's GitHub stats](https://github-readme-stats.vercel.app/api?username=halfoffive&show_icons=true&theme=dark)
 #### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niaodtiantang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halfoffive)](https://github.com/anuraghazra/github-readme-stats)
 #### 💻 My website
-##### [Github Page](https://niaodtiantang.github.io)
-##### [My Blog](https://blog.niaodtiantang.com)
+##### [Github Page](https://halfoffive.github.io)
+
